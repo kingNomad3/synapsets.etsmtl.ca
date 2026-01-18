@@ -1,3 +1,39 @@
+## Archived Website / Site archivé
+
+### 🇬🇧 English
+
+⚠️ This repository contains an **archived snapshot** of a website as it existed during my involvement as a developer/administrator.
+
+- The website is no longer actively maintained by me.
+- The official website may have changed or no longer exist.
+- This archive is preserved for **portfolio, documentation, and reference purposes only**.
+
+🔗 **Archived live version (GitHub Pages):**  
+https://kingnomad3.github.io/synapsets.etsmtl.ca/
+
+📅 Snapshot generated and archived in 2025.
+
+---
+
+### 🇫🇷 Français
+
+⚠️ Ce dépôt contient une **version archivée** du site web telle qu’elle existait durant mon implication comme développeur/administrateur.
+
+- Le site n’est plus activement maintenu par moi.
+- Le site officiel a pu être modifié ou n’existe plus.
+- Cette archive est conservée à des fins de **portfolio, de documentation et de référence uniquement**.
+
+🔗 **Version archivée en ligne (GitHub Pages) :**  
+https://kingnomad3.github.io/synapsets.etsmtl.ca/
+
+📅 Instantané généré et archivé en 2025.
+
+
+https://web.archive.org/web/20260118215830/https://synapsets.etsmtl.ca/
+https://web.archive.org/web/20260118205642/https://synapsets.etsmtl.ca/membres/
+
+
+
 # SynapsÉTS
 
 Site web du club SynapsÉTS utilisant le thème [Cohub Hugo](https://github.com/StaticMania/hugo-cohub#cohub-hugo) et [AIR](https://github.com/syui/hugo-theme-air).
@@ -93,7 +129,10 @@ featureImage: images/evenement/imagePourVotreEvenement.png
     - Modifier le contenu de votre evenement qui se trouve dans le repertoire `content/evenement/`.
 - Modifier la page Évènement
     - Modifier le contenu de la page evenement où la liste de vos évènement est présenté avec le fichier `content/evenement/_index.md`.
+
+
     
 ### Modification des informations du club (adresse, logo, lien vers réseaux sociaux)
 - Le fichier `config.toml` à la racine du repository du projet contient toute les informations tel que l'addresse, les liens vers vos réseaux sociaux, le logo choisi pour le header de votre navbar ainsi que celui du footer. 
 - Noter que la section [Menu] permet de modifier l'ordre des éléments dans votre navbar et de changer le nom des sections du navbar.
+
