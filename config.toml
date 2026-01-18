@@ -8,41 +8,41 @@ title = 'Synapse'
  
 [Menu]
   # Main Menu
-  [[menu.Main]]
-  name = "Accueil"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
-  name = "Mission"
-  url= "#mission"
-  weight = 2
-  [[menu.Main]]
-  name = "Évènement"
-  url= "#evenement"
-  weight = 4
-  [[menu.Main]]
-  name = "Projets"
-  url= "#projet"
-  weight = 3
-    [[menu.Main]]
-  name = "Membres"
-  url= "membres/"
-  weight = 5
+[[menu.Main]]
+name = "Accueil"
+url = "#gallery"
+weight = 1
 
- 
-  [[menu.Main]]
-  name = "Contact"
-  url= "contact/"
-  weight = 7
+[[menu.Main]]
+name = "Mission"
+url = "#mission"
+weight = 2
 
-  [[menu.Main]]
-  name = "FAQ"
-  url= "#faq"
-  weight = 6
-  [[menu.Main]]
-  name = "Contact"
-  url= "/contact/"
-  weight = 7
+[[menu.Main]]
+name = "Projets"
+url = "#projet"
+weight = 3
+
+[[menu.Main]]
+name = "Évènement"
+url = "#evenement"
+weight = 4
+
+[[menu.Main]]
+name = "Membres"
+url = "membres/"
+weight = 5
+
+[[menu.Main]]
+name = "FAQ"
+url = "#faq"
+weight = 6
+
+[[menu.Main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
 
 [params]
   aboutPageURL = "projet"
