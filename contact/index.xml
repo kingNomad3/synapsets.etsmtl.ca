@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Synapse</title>
-    <link>/contact/</link>
+    <link>https://kingnomad3.github.io/synapsets.etsmtl.ca/contact/</link>
     <description>Recent content in Contact on Synapse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kingnomad3.github.io/synapsets.etsmtl.ca/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

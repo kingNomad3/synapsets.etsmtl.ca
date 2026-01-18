@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nos projets on Synapse</title>
-    <link>/projet/</link>
+    <link>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/</link>
     <description>Recent content in Nos projets on Synapse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate>
-    <atom:link href="/projet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EXO</title>
-      <link>/projet/exo/</link>
+      <link>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/exo/</link>
       <pubDate>Thu, 06 Jan 2022 11:15:47 +0600</pubDate>
-      <guid>/projet/exo/</guid>
+      <guid>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/exo/</guid>
       <description>Présentation Le projet EXO est un projet de conception d’exosquelette servant à assister les personnes. Le club vise à participer à la compétition d&amp;rsquo;exosquelettes de l&amp;rsquo;Université du Michigan en 2023 en développant un exosquelette de support visant à aider les utilisateurs à soulever des charges plus lourdes et à réduire la fatigue physique. Ce dispositif sera principalement destiné à aider les personnes dans des tâches difficiles, comme celles des pompiers. À l&amp;rsquo;avenir, nous souhaitons explorer d&amp;rsquo;autres possibilités pour ce projet, comme son utilisation dans la réhabilitation pour améliorer la locomotion chez les patients ayant perdu l&amp;rsquo;habilité de leurs membres inférieurs.</description>
     </item>
     <item>
       <title>Misca</title>
-      <link>/projet/misca/</link>
+      <link>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/misca/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
-      <guid>/projet/misca/</guid>
+      <guid>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/misca/</guid>
       <description>Le nom de Misca a été choisi pour (Machine Interface for Cognitive Signal Analysis). Il est notre projet central au sein de SynapsÉts. Autrement, on pourrait difficilement appliquer une interface cerveau-machine dans nos autres recherches.&#xA;Présentation Ce projet est un projet à amélioration continue dans le but de fournir au club des outils technologiques abordables et que nous avons débuté dans le cadre de la compétition de NeurotechX en 2017. Il consiste au développement et au montage d’un circuit électrique qui fera l’interface entre les signaux bioélectrique du corps et une machine recevant des signaux de contrôle électrique.</description>
     </item>
     <item>
       <title>REACH</title>
-      <link>/projet/reach/</link>
+      <link>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/reach/</link>
       <pubDate>Thu, 06 Jan 2022 11:16:38 +0600</pubDate>
-      <guid>/projet/reach/</guid>
+      <guid>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/reach/</guid>
       <description>Présentation L&amp;rsquo;un des projets de SynapsÉTS est la réalisation d&amp;rsquo;une prothèse biomimétique qui sera éventuellement contrôlée par les signaux de provenance humaine. Les membres de l’équipe doivent développer et rechercher des systèmes de motorisation de différentes articulations, car la prothèse doit être la plus fidèle possible à celle d&amp;rsquo;un humain (vitesse, dextérité, degré de liberté, etc.) De plus, ils seront amenés à concevoir la structure et les parois extérieures du bras, à définir le système de contrôle des composantes et à intégrer une Interface cerveau-machine au système.</description>
     </item>
     <item>
       <title>Unity</title>
-      <link>/projet/unity/</link>
+      <link>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/unity/</link>
       <pubDate>Thu, 06 Jan 2022 11:17:17 +0600</pubDate>
-      <guid>/projet/unity/</guid>
+      <guid>https://kingnomad3.github.io/synapsets.etsmtl.ca/projet/unity/</guid>
       <description>Présentation Ce projet consiste au développement d’un jeu vidéo en réalité virtuel et qui utiliseras une interface cerveau-machine pour une plus grande immersion dans le jeu. Ainsi, le HTC Vive a été sélectionné comme casque à réalité virtuelle et Unity sera utilisé comme moteur pour notre jeu, dans le but de développer un produit Open Source. Tout au long du projet, des buts de logiciel, des bouts de jeu, seront développé afin de maitriser les subtilités des différentes technologies utilisées.</description>
     </item>
   </channel>
