@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nos membres on Synapse</title>
+    <link>/membres/</link>
+    <description>Recent content in Nos membres on Synapse</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/membres/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

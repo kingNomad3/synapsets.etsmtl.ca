@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synapse</title>
+    <link>/</link>
+    <description>Recent content on Synapse</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 11:16:38 +0600</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EXO</title>
+      <link>/projet/exo/</link>
+      <pubDate>Thu, 06 Jan 2022 11:15:47 +0600</pubDate>
+      <guid>/projet/exo/</guid>
+      <description>Présentation Le projet EXO est un projet de conception d’exosquelette servant à assister les personnes. Le club vise à participer à la compétition d&amp;rsquo;exosquelettes de l&amp;rsquo;Université du Michigan en 2023 en développant un exosquelette de support visant à aider les utilisateurs à soulever des charges plus lourdes et à réduire la fatigue physique. Ce dispositif sera principalement destiné à aider les personnes dans des tâches difficiles, comme celles des pompiers. À l&amp;rsquo;avenir, nous souhaitons explorer d&amp;rsquo;autres possibilités pour ce projet, comme son utilisation dans la réhabilitation pour améliorer la locomotion chez les patients ayant perdu l&amp;rsquo;habilité de leurs membres inférieurs.</description>
+    </item>
+    <item>
+      <title>Misca</title>
+      <link>/projet/misca/</link>
+      <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
+      <guid>/projet/misca/</guid>
+      <description>Le nom de Misca a été choisi pour (Machine Interface for Cognitive Signal Analysis). Il est notre projet central au sein de SynapsÉts. Autrement, on pourrait difficilement appliquer une interface cerveau-machine dans nos autres recherches.&#xA;Présentation Ce projet est un projet à amélioration continue dans le but de fournir au club des outils technologiques abordables et que nous avons débuté dans le cadre de la compétition de NeurotechX en 2017. Il consiste au développement et au montage d’un circuit électrique qui fera l’interface entre les signaux bioélectrique du corps et une machine recevant des signaux de contrôle électrique.</description>
+    </item>
+    <item>
+      <title>REACH</title>
+      <link>/projet/reach/</link>
+      <pubDate>Thu, 06 Jan 2022 11:16:38 +0600</pubDate>
+      <guid>/projet/reach/</guid>
+      <description>Présentation L&amp;rsquo;un des projets de SynapsÉTS est la réalisation d&amp;rsquo;une prothèse biomimétique qui sera éventuellement contrôlée par les signaux de provenance humaine. Les membres de l’équipe doivent développer et rechercher des systèmes de motorisation de différentes articulations, car la prothèse doit être la plus fidèle possible à celle d&amp;rsquo;un humain (vitesse, dextérité, degré de liberté, etc.) De plus, ils seront amenés à concevoir la structure et les parois extérieures du bras, à définir le système de contrôle des composantes et à intégrer une Interface cerveau-machine au système.</description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>/projet/unity/</link>
+      <pubDate>Thu, 06 Jan 2022 11:17:17 +0600</pubDate>
+      <guid>/projet/unity/</guid>
+      <description>Présentation Ce projet consiste au développement d’un jeu vidéo en réalité virtuel et qui utiliseras une interface cerveau-machine pour une plus grande immersion dans le jeu. Ainsi, le HTC Vive a été sélectionné comme casque à réalité virtuelle et Unity sera utilisé comme moteur pour notre jeu, dans le but de développer un produit Open Source. Tout au long du projet, des buts de logiciel, des bouts de jeu, seront développé afin de maitriser les subtilités des différentes technologies utilisées.</description>
+    </item>
+    <item>
+      <title>Anges du Génie 2023</title>
+      <link>/evenement/angesdugenie/</link>
+      <pubDate>Mon, 20 Mar 2023 11:16:38 +0600</pubDate>
+      <guid>/evenement/angesdugenie/</guid>
+      <description>Lors du concours Les Anges du génie, SynapsÉTS s&amp;rsquo;illustre parmi près de 50 équipes et remporte une bourse de 3000$ Cette semaine, les membres de SynapsÉTS ont eu la chance de démontrer leur capacité dans le cadre d’un tout nouveau concours soulignant l’innovation étudiante en milieu universitaire. En effet, Jeudi 16 mars s’est tenu la diffusion de la grande finale du concours les Anges du génie organisé par gestion Férique. Cette dernière mettait en compétition 6 projets sélectionnés afin de répondre à au moins un des 17 critères du développement durable définis par l’ONU.</description>
+    </item>
+    <item>
+      <title>Coopérathon 2022</title>
+      <link>/evenement/cooperathon/</link>
+      <pubDate>Tue, 27 Sep 2022 11:16:38 +0600</pubDate>
+      <guid>/evenement/cooperathon/</guid>
+      <description>Compétition propulsée par Desjardins dans le cadre de la Montreal NewTech, elle met en avant les innovations technologiques et les solutions novatrices. Le but est de créer une solution technologique qui répond à un problème spécifique, cette année celui de la santé de l&amp;rsquo;humain et la santé de la Terre. Nous avons réussi à entrer dans le parcours Alpha+ et être nominé pour le prix &amp;ldquo;Diversité et Inclusion&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Nouveau site web</title>
+      <link>/evenement/nouveausiteweb/</link>
+      <pubDate>Mon, 13 Jun 2022 11:16:38 +0600</pubDate>
+      <guid>/evenement/nouveausiteweb/</guid>
+      <description>Dans la lignée d&amp;rsquo;un renouveau pour le club, le site internet change d&amp;rsquo;allure pour représenter au mieux l&amp;rsquo;image du club et ses projets.</description>
+    </item>
+  </channel>
+</rss>
