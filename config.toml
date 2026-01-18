@@ -24,10 +24,17 @@ title = 'Synapse'
   name = "Projets"
   url= "#projet"
   weight = 3
-  [[menu.Main]]
+    [[menu.Main]]
   name = "Membres"
-  url= "/membres/"
+  url= "membres/"
   weight = 5
+
+ 
+  [[menu.Main]]
+  name = "Contact"
+  url= "contact/"
+  weight = 7
+
   [[menu.Main]]
   name = "FAQ"
   url= "#faq"
